@@ -3,7 +3,7 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './LanguagesStyles';
 
 const Technologies = () =>  (
- <Section id="tech">
+ <Section id="languages">
    <SectionDivider />
    <br />
    <br />
