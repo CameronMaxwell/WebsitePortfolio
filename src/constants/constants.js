@@ -19,11 +19,11 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Tweets Analysis',
-    description: "This program takes in tweets throughout the US analyzing each tweet by region based on a sentiment score for each tweet. Takes a ratio of score per tweet per region and determines the 'happiest' region based on the happiness score.",
-    image: 'images/tweets.png',  
-    tags: ['Python'],
-    visit: 'https://github.com/CameronMaxwell/tweetsAnalysis',
+    title: 'NFL Stat Tracker',
+    description: "This program allows users to search, compare, and favourite NFL players. It also features a login and register system, user help page, and betting tracker.",
+    image: 'images/StatTrackerImage.png',  
+    tags: ['C++, Wt'],
+    visit: 'https://github.com/CameronMaxwell/NFL-Stat-Tracker',
     id: 2,
   },
   {
